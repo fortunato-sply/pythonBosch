@@ -1,0 +1,4 @@
+array: recebe uma matriz 5x5 com numeros aleatórios de 1 a 10
+condition: condicional que verifica se o número no array dividido por dois tem resto zero, ou seja, se ele é ímpar.
+array[condition] = array[condition]**2 # eleva ao quadrado todos os números que se encaixam na condition (ímpares)
+
